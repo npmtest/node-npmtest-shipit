@@ -1,4 +1,7 @@
-# test coverage for  [shipit (v1.0.2)](https://github.com/sailrish/shipit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-shipit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shipit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shipit.svg)](https://travis-ci.org/npmtest/node-npmtest-shipit)
+# npmtest-shipit
+
+#### basic test coverage for  [shipit (v1.0.2)](https://github.com/sailrish/shipit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-shipit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shipit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shipit.svg)](https://travis-ci.org/npmtest/node-npmtest-shipit)
+
 #### This module allows you to connect to many shipping carriers like UPS and FedEx and download tracking data for your packages in a common schema
 
 [![NPM](https://nodei.co/npm/shipit.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/shipit)
